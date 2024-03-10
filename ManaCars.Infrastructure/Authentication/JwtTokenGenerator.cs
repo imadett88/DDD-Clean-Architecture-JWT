@@ -4,6 +4,7 @@ using System.Security.Cryptography; // Added for key generation
 using System.Text;
 using ManaCars.Application.Common.Interfaces.Authentication;
 using ManaCars.Application.Common.Interfaces.Services;
+using ManaCars.Domain.Entities;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 
@@ -21,7 +22,7 @@ namespace ManaCars.Infrastructure.Authentication
             _jwtSettings = jwtOptions.Value;
         }
 
-        public string GenerateToken(Guid userId, string firstName, string lastName)
+        public string GenerateToken(User user)
         {
 
 
@@ -31,21 +32,20 @@ namespace ManaCars.Infrastructure.Authentication
             // SecurityAlgorithms.HmacSha256);
 
             // fix with this :
-            var key = new byte[32]; // 256 bits - Generated key
-            using (var rng = RandomNumberGenerator.Create()) // Secure random number generator
+            var key = new byte[32]; // 256 bits
+            using (var rng = RandomNumberGenerator.Create())
             {
-                rng.GetBytes(key); // Generating random key bytes
+                rng.GetBytes(key);
             }
 
             var signingCredentials = new SigningCredentials(
-                new SymmetricSecurityKey(key), // Using the generated key for signing
-                SecurityAlgorithms.HmacSha256); // Using HMAC SHA256 for signing
-
+                new SymmetricSecurityKey(key),
+                 SecurityAlgorithms.HmacSha256);
             var claims = new[]
             {
-                new Claim(JwtRegisteredClaimNames.Sub, userId.ToString()),
-                new Claim(JwtRegisteredClaimNames.GivenName, firstName),
-                new Claim(JwtRegisteredClaimNames.FamilyName, lastName),
+                new Claim(JwtRegisteredClaimNames.Sub, user.Id.ToString()),
+                new Claim(JwtRegisteredClaimNames.GivenName, user.FirstName),
+                new Claim(JwtRegisteredClaimNames.FamilyName, user.LastName),
                 new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()),
             };
 

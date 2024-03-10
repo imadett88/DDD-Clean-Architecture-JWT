@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ManaCars.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa449e86612c52a37ed44e7a2b45ef2a34d486f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+170492b41a4ce22a0ae91115c6fb2d0aa61be34a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ManaCars.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ManaCars.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
