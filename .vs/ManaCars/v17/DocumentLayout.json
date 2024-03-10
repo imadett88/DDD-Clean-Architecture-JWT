@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4FFA2E77-D904-45D7-BA39-C5CF87E8F9D9}|ManaCars.Infrastructure\\ManaCars.Infrastructure.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\project\\manacars\\manacars.infrastructure\\manacars.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4FFA2E77-D904-45D7-BA39-C5CF87E8F9D9}|ManaCars.Infrastructure\\ManaCars.Infrastructure.csproj|solutionrelative:manacars.infrastructure\\manacars.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFA2E77-D904-45D7-BA39-C5CF87E8F9D9}|ManaCars.Infrastructure\\ManaCars.Infrastructure.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\project\\manacars\\manacars.infrastructure\\authentication\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFA2E77-D904-45D7-BA39-C5CF87E8F9D9}|ManaCars.Infrastructure\\ManaCars.Infrastructure.csproj|solutionrelative:manacars.infrastructure\\authentication\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DC1867DE-F03B-481D-8EB6-D5CD15A934FC}|ManaCars.Application\\ManaCars.Application.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\project\\manacars\\manacars.application\\dependecyinjectction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC1867DE-F03B-481D-8EB6-D5CD15A934FC}|ManaCars.Application\\ManaCars.Application.csproj|solutionrelative:manacars.application\\dependecyinjectction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ManaCars.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Infrastructure\\ManaCars.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "ManaCars.Infrastructure\\ManaCars.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Infrastructure\\ManaCars.Infrastructure.csproj",
+              "RelativeToolTip": "ManaCars.Infrastructure\\ManaCars.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-10T16:36:51.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Infrastructure\\Authentication\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "ManaCars.Infrastructure\\Authentication\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Infrastructure\\Authentication\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "ManaCars.Infrastructure\\Authentication\\JwtTokenGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T15:31:04.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DependecyInjectction.cs",
               "DocumentMoniker": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Application\\DependecyInjectction.cs",
               "RelativeDocumentMoniker": "ManaCars.Application\\DependecyInjectction.cs",

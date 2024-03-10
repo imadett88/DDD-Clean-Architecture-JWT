@@ -9,3 +9,4 @@ C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Domain
 C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Domain\obj\Debug\net8.0\refint\ManaCars.Domain.dll
 C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Domain\obj\Debug\net8.0\ManaCars.Domain.pdb
 C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Domain\obj\Debug\net8.0\ref\ManaCars.Domain.dll
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Domain\obj\Debug\net8.0\ManaCars.Domain.sourcelink.json

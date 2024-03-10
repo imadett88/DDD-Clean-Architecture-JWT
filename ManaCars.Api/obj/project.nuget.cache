@@ -1,10 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "VnZIRoMRb09G2/mIkCeSbLsO1PhT0YtRHEh7OCXO1VIRZfjWA6tId46p9DbhhKb45suoD46V3gdh5Oj6D2Jx2g==",
+  "dgSpecHash": "qlB/oCXQgWLUJJbYH0W1NHPJTKpIjD2ap+FwWPUiWqoDx+jQr+NzxS+W9S9O+7LPngFkOCLdfCgVV5ZWI6M0Gg==",
   "success": true,
   "projectFilePath": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Api\\ManaCars.Api.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\IMAD.ETTAMEN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+    "C:\\Users\\IMAD.ETTAMEN\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\IMAD.ETTAMEN\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\IMAD.ETTAMEN\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0\\microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "C:\\Users\\IMAD.ETTAMEN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\IMAD.ETTAMEN\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\IMAD.ETTAMEN\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0\\microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
+    "C:\\Users\\IMAD.ETTAMEN\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\IMAD.ETTAMEN\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.4.0\\microsoft.identitymodel.abstractions.7.4.0.nupkg.sha512",
+    "C:\\Users\\IMAD.ETTAMEN\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.4.0\\microsoft.identitymodel.jsonwebtokens.7.4.0.nupkg.sha512",
+    "C:\\Users\\IMAD.ETTAMEN\\.nuget\\packages\\microsoft.identitymodel.logging\\7.4.0\\microsoft.identitymodel.logging.7.4.0.nupkg.sha512",
+    "C:\\Users\\IMAD.ETTAMEN\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.4.0\\microsoft.identitymodel.tokens.7.4.0.nupkg.sha512",
+    "C:\\Users\\IMAD.ETTAMEN\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.4.0\\system.identitymodel.tokens.jwt.7.4.0.nupkg.sha512"
   ],
   "logs": []
 }

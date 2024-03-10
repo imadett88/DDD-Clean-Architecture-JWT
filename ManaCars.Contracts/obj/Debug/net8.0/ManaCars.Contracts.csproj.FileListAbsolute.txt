@@ -9,3 +9,4 @@ C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Contra
 C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Contracts\obj\Debug\net8.0\refint\ManaCars.Contracts.dll
 C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Contracts\obj\Debug\net8.0\ManaCars.Contracts.pdb
 C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Contracts\obj\Debug\net8.0\ref\ManaCars.Contracts.dll
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Contracts\obj\Debug\net8.0\ManaCars.Contracts.sourcelink.json

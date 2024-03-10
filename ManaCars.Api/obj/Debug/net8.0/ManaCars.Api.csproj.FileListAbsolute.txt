@@ -33,3 +33,9 @@ C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Api\bi
 C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Api\bin\Debug\net8.0\ManaCars.Infrastructure.dll
 C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Api\bin\Debug\net8.0\ManaCars.Infrastructure.pdb
 C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Api\bin\Debug\net8.0\ManaCars.Domain.pdb
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Api\obj\Debug\net8.0\ManaCars.Api.sourcelink.json

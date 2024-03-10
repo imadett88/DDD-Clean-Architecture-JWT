@@ -13,3 +13,4 @@ C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Applic
 C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Application\bin\Debug\net8.0\ManaCars.Domain.pdb
 C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Application\obj\Debug\net8.0\ManaCars.Application.csproj.AssemblyReference.cache
 C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Application\obj\Debug\net8.0\ManaCars.2A8A9A8C.Up2Date
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Application\obj\Debug\net8.0\ManaCars.Application.sourcelink.json
