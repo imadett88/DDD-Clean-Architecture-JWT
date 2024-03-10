@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "m/H99qQc2FxI4KZvp/fXLjtGuw5sXDOGKui5+1ViYWY=",
+  "Source": "ManaCars.Api",
+  "BasePath": "_content/ManaCars.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

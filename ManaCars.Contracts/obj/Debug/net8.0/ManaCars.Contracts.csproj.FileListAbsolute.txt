@@ -1,0 +1,11 @@
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Contracts\bin\Debug\net8.0\ManaCars.Contracts.deps.json
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Contracts\bin\Debug\net8.0\ManaCars.Contracts.dll
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Contracts\bin\Debug\net8.0\ManaCars.Contracts.pdb
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Contracts\obj\Debug\net8.0\ManaCars.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Contracts\obj\Debug\net8.0\ManaCars.Contracts.AssemblyInfoInputs.cache
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Contracts\obj\Debug\net8.0\ManaCars.Contracts.AssemblyInfo.cs
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Contracts\obj\Debug\net8.0\ManaCars.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Contracts\obj\Debug\net8.0\ManaCars.Contracts.dll
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Contracts\obj\Debug\net8.0\refint\ManaCars.Contracts.dll
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Contracts\obj\Debug\net8.0\ManaCars.Contracts.pdb
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Contracts\obj\Debug\net8.0\ref\ManaCars.Contracts.dll

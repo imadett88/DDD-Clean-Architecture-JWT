@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e1HIe7uCiqd5A73G3xCJxVUEbP3iIObptTTx/zktcF5prGVJvfYKDeK1FjoT8tC5bVF4ymMKBTyEg8CTL/AbCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Application\\ManaCars.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IMAD.ETTAMEN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

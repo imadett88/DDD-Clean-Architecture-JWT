@@ -1,0 +1,335 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Api\\ManaCars.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Api\\ManaCars.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Api\\ManaCars.Api.csproj",
+        "projectName": "ManaCars.Api",
+        "projectPath": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Api\\ManaCars.Api.csproj",
+        "packagesPath": "C:\\Users\\IMAD.ETTAMEN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IMAD.ETTAMEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Application\\ManaCars.Application.csproj": {
+                "projectPath": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Application\\ManaCars.Application.csproj"
+              },
+              "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Contracts\\ManaCars.Contracts.csproj": {
+                "projectPath": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Contracts\\ManaCars.Contracts.csproj"
+              },
+              "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Infrastructure\\ManaCars.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Infrastructure\\ManaCars.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Application\\ManaCars.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Application\\ManaCars.Application.csproj",
+        "projectName": "ManaCars.Application",
+        "projectPath": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Application\\ManaCars.Application.csproj",
+        "packagesPath": "C:\\Users\\IMAD.ETTAMEN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IMAD.ETTAMEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Domain\\ManaCars.Domain.csproj": {
+                "projectPath": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Domain\\ManaCars.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Contracts\\ManaCars.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Contracts\\ManaCars.Contracts.csproj",
+        "projectName": "ManaCars.Contracts",
+        "projectPath": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Contracts\\ManaCars.Contracts.csproj",
+        "packagesPath": "C:\\Users\\IMAD.ETTAMEN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IMAD.ETTAMEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Domain\\ManaCars.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Domain\\ManaCars.Domain.csproj",
+        "projectName": "ManaCars.Domain",
+        "projectPath": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Domain\\ManaCars.Domain.csproj",
+        "packagesPath": "C:\\Users\\IMAD.ETTAMEN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IMAD.ETTAMEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Infrastructure\\ManaCars.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Infrastructure\\ManaCars.Infrastructure.csproj",
+        "projectName": "ManaCars.Infrastructure",
+        "projectPath": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Infrastructure\\ManaCars.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\IMAD.ETTAMEN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IMAD.ETTAMEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Application\\ManaCars.Application.csproj": {
+                "projectPath": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Project\\ManaCars\\ManaCars.Application\\ManaCars.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

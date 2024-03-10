@@ -1,0 +1,17 @@
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Infrastructure\bin\Debug\net8.0\ManaCars.Infrastructure.deps.json
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Infrastructure\bin\Debug\net8.0\ManaCars.Infrastructure.dll
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Infrastructure\bin\Debug\net8.0\ManaCars.Infrastructure.pdb
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Infrastructure\obj\Debug\net8.0\ManaCars.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Infrastructure\obj\Debug\net8.0\ManaCars.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Infrastructure\obj\Debug\net8.0\ManaCars.Infrastructure.AssemblyInfo.cs
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Infrastructure\obj\Debug\net8.0\ManaCars.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Infrastructure\obj\Debug\net8.0\ManaCars.Infrastructure.dll
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Infrastructure\obj\Debug\net8.0\refint\ManaCars.Infrastructure.dll
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Infrastructure\obj\Debug\net8.0\ManaCars.Infrastructure.pdb
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Infrastructure\obj\Debug\net8.0\ref\ManaCars.Infrastructure.dll
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Infrastructure\bin\Debug\net8.0\ManaCars.Application.dll
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Infrastructure\bin\Debug\net8.0\ManaCars.Domain.dll
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Infrastructure\bin\Debug\net8.0\ManaCars.Application.pdb
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Infrastructure\bin\Debug\net8.0\ManaCars.Domain.pdb
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Infrastructure\obj\Debug\net8.0\ManaCars.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Infrastructure\obj\Debug\net8.0\ManaCars.F0A4A4DD.Up2Date

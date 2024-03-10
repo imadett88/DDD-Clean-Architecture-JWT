@@ -1,0 +1,11 @@
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Domain\bin\Debug\net8.0\ManaCars.Domain.deps.json
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Domain\bin\Debug\net8.0\ManaCars.Domain.dll
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Domain\bin\Debug\net8.0\ManaCars.Domain.pdb
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Domain\obj\Debug\net8.0\ManaCars.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Domain\obj\Debug\net8.0\ManaCars.Domain.AssemblyInfoInputs.cache
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Domain\obj\Debug\net8.0\ManaCars.Domain.AssemblyInfo.cs
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Domain\obj\Debug\net8.0\ManaCars.Domain.csproj.CoreCompileInputs.cache
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Domain\obj\Debug\net8.0\ManaCars.Domain.dll
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Domain\obj\Debug\net8.0\refint\ManaCars.Domain.dll
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Domain\obj\Debug\net8.0\ManaCars.Domain.pdb
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Domain\obj\Debug\net8.0\ref\ManaCars.Domain.dll

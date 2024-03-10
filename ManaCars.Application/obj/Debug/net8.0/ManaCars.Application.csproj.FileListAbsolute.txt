@@ -1,0 +1,15 @@
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Application\bin\Debug\net8.0\ManaCars.Application.deps.json
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Application\bin\Debug\net8.0\ManaCars.Application.dll
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Application\bin\Debug\net8.0\ManaCars.Application.pdb
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Application\obj\Debug\net8.0\ManaCars.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Application\obj\Debug\net8.0\ManaCars.Application.AssemblyInfoInputs.cache
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Application\obj\Debug\net8.0\ManaCars.Application.AssemblyInfo.cs
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Application\obj\Debug\net8.0\ManaCars.Application.csproj.CoreCompileInputs.cache
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Application\obj\Debug\net8.0\ManaCars.Application.dll
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Application\obj\Debug\net8.0\refint\ManaCars.Application.dll
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Application\obj\Debug\net8.0\ManaCars.Application.pdb
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Application\obj\Debug\net8.0\ref\ManaCars.Application.dll
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Application\bin\Debug\net8.0\ManaCars.Domain.dll
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Application\bin\Debug\net8.0\ManaCars.Domain.pdb
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Application\obj\Debug\net8.0\ManaCars.Application.csproj.AssemblyReference.cache
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Project\ManaCars\ManaCars.Application\obj\Debug\net8.0\ManaCars.2A8A9A8C.Up2Date
